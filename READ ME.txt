@@ -1,0 +1,5 @@
+first see the requirements.txt file and satisfy libs
+run mainproject.py file
+login with Admin
+ACN--->0
+Pass--->Admin
